@@ -1,6 +1,6 @@
 # Emojunst
 
-A [Dunst](https://github.com/dunst-project/dunst) emoji selector 
+A [Dunst](https://github.com/dunst-project/dunst) emoji selector.
 
 ## Installation
 
