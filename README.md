@@ -12,6 +12,8 @@ git clone https://github.com/lyneca/emojunst
 python3 generate.py
 ```
 
+`emoji-test.txt` is taken from https://unicode.org/Public/emoji/11.0/.
+
 Move `emojunst` to somewhere on `$PATH`.
 
 ## Usage
