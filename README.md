@@ -21,3 +21,6 @@ ln -s $PWD/emojunst ~/.local/bin/emojunst
 
 Bind `emojunst` to a button on your keyboard, and emoji away!
 
+## Screenshot
+
+![emojunst screenshot](screenshot.png)
