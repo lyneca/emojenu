@@ -19,7 +19,8 @@ ln -s $PWD/emojunst ~/.local/bin/emojunst
 
 ## Usage
 
-Bind `emojunst` to a button on your keyboard, and emoji away!
+Bind `emojunst` to a button on your keyboard, and emoji away! Once selected,
+the emoji will be copied to your clipboard using `xclip -selection clipboard`.
 
 ## Screenshot
 
