@@ -11,7 +11,7 @@ def get_emoji(codepoint):
 
 
 def format_line(codepoints, desc):
-    return "{}|{}".format(desc, ''.join([get_emoji(x) for x in codepoints]))
+    return "{}|{}".format(desc, ''.join([get_emoji(x) for x in codepoints])).lower()
 
 
 with open("emoji-test.txt") as f:
