@@ -25,6 +25,6 @@ path = os.path.join(os.environ["HOME"], '.config/emoji')
 if not os.path.exists(path):
     open(path, 'x').close()
 
-with open('/home/lyneca/.config/emoji', 'w') as f:
+with open(path, 'w') as f:
     for emoji in emoji_list:
         f.write(format_line(*emoji) + "\n")
